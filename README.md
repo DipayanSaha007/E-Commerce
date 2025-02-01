@@ -6,5 +6,5 @@
 # Step-2: 
   In both terminals run "npm install"
 # Step-3: 
-  @ In the terminal of "backend" run "node index.js"
-  @ In the terminal of "frontend" run "npm start"
+  In the terminal of "backend" run "node index.js" and 
+  In the terminal of "frontend" run "npm start"
