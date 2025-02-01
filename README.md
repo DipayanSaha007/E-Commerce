@@ -8,3 +8,7 @@
 # Step-3: 
   In the terminal of "backend" run "node index.js" and 
   In the terminal of "frontend" run "npm start"
+
+## Admin Details :-
+  username = admin, 
+  password = Admin@118
